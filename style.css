@@ -1,0 +1,68 @@
+.myBtn{
+    background-color: #7C4EE4;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: none ! important;
+    border: none     ! important;
+}
+.myBtn:hover{
+    color: white;
+}
+.myActive{
+    color: #7C4EE4 ! important;
+}
+.tColor{
+    color: #150E06;
+}
+.myParaColor{
+    color: #BBBBBB;
+}
+
+.myColor{
+    color: #7C4EE4;
+}
+.myBorder{
+    border-top: 1px solid #7C4EE4;
+    
+    
+}
+.myBtn2{
+    background-color: transparent;
+    color: #fff;
+    padding: 10px 20px;
+    width: 150px;
+    border: 1px solid #fff;
+    border-radius: none ! important;
+}
+.myBtn2:hover{
+    color: #fff;
+}
+.myWidth{
+    width: 500px;
+}
+.myBtn3{
+    background-color: transparent;
+    color:#7C4EE4;
+    padding: 10px 20px;
+    width: 150px;
+    border: 1px solid #7C4EE4;
+    border-radius: none ! important;
+}
+.myBtn3:hover{
+    color: #7C4EE4;
+}
+.textC{
+    font-size: 45px;
+    font-weight: 700;
+    color:#fff
+}
+.bgColor2{
+    background-color: #7C4EE4;
+}
+.myInput{
+    padding: 10px 20px;
+    
+}
+.myC{
+    margin-bottom: -20px;
+}
